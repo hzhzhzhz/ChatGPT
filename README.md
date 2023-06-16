@@ -1,5 +1,5 @@
-# ChatGPT
-ChatGPT商业版
+#ChatGPT商业版
+
 --------- 功能介绍 ---------
 
 系统框架：ThinkPHP6 + Vue-admin开发，完全开源可二开，
